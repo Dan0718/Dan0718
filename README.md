@@ -1,19 +1,24 @@
-### Hi there 👋,
+### **Hi there**  👋,
 
-I'm Daniel and I'm currently learning how to code. I'm looking forward to the journey ahead. 
-Here are some infos about myself. 
+I'm Daniel and I'm currently based in Munich/Germany. 
 
-I like:
-- **Footbal** :soccer: and **Football** :football:
+## 🔨**What I'm currently up to:**
+- I'm learning how to code in Neue Fisches Web Development Bootcamp 💻
+
+## 👍 I like:
+- **Football** :soccer: and **Football** :football:
 - :spades: :hearts: **Poker** :diamonds: :clubs:
-- **movies** :tv:
+- **Movies** :tv:
+- 🍔**Food**:pizza:
 
-I speak: 
+## 🗣️ I speak: 
 - **English** :us:
 - **German** :de:
 - **Japanese** :jp:
 
-Thanks for visiting my profile! 
+**Feel free to reach out to me anytime, I'm always happy to help and meet new people.**
+
+**Thanks for visiting my profile!**
 
 
 <!--
