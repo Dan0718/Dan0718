@@ -4,9 +4,9 @@ I'm Daniel and I'm currently based in Munich/Germany.
 
 ## 🔨**I'm currently learning:**
 
-![image](https://user-images.githubusercontent.com/125875750/221243362-cc1179b1-8669-4062-902b-a7dfce65a76c.png)
-![image](https://user-images.githubusercontent.com/125875750/221243479-ed1a5246-443a-4b62-8b1a-9e1c31d30967.png)
-![image](https://user-images.githubusercontent.com/125875750/221243660-8cb5c6ff-f742-43b5-b8dc-e5320d17e52f.png)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
